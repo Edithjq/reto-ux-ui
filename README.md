@@ -4,8 +4,10 @@
 1. Elige una web de tu preferencia y explica qué partes conforman el UX y qué partes el UI
 
 ## YOUTUBE
-	```Youtube es la segunda red social con más usuarios
-			de todo el mundo``
+	```
+	Youtube es la segunda red social con más usuarios
+			de todo el mundo 
+	```
 
 ### UX
 
@@ -17,11 +19,11 @@
 * La resolucion del video es según la velocidad de internet
 * Se puede ver en el menu principal: el historial, las suscripciones, tendencias de los videos 	 
 
-![UI](Screenshot_2.png)
+![UI](imagen/Screenshot_2.png)
 
-![UI](Screenshot_5.png)
+![UI](imagen/Screenshot_5.png)
 
-![UI](Screenshot_3.png)
+![UI](imagen/Screenshot_3.png)
 
 ### UI
 
@@ -31,11 +33,11 @@
 * Modificar la configuracion de los videos según el usuario desee (velocidad/calidad)
 * Diseño de los botones 
 
-![UI](Screenshot_6.png)
+![UI](imagen/Screenshot_6.png)
 
-![UI](Screenshot_4.png)
+![UI](imagen/Screenshot_4.png)
 
-![UI](Screenshot_1.png)
+![UI](imagen/Screenshot_1.png)
 
 
 
