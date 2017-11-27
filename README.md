@@ -19,11 +19,11 @@
 * La resolucion del video es según la velocidad de internet
 * Se puede ver en el menu principal: el historial, las suscripciones, tendencias de los videos 	 
 
-![UI](imagen/Screenshot_2.png)
+![UI](images/Screenshot_2.png)
 
-![UI](imagen/Screenshot_5.png)
+![UI](images/Screenshot_5.png)
 
-![UI](imagen/Screenshot_3.png)
+![UI](images/Screenshot_3.png)
 
 ### UI
 
@@ -33,11 +33,11 @@
 * Modificar la configuracion de los videos según el usuario desee (velocidad/calidad)
 * Diseño de los botones 
 
-![UI](imagen/Screenshot_6.png)
+![UI](images/Screenshot_6.png)
 
-![UI](imagen/Screenshot_4.png)
+![UI](images/Screenshot_4.png)
 
-![UI](imagen/Screenshot_1.png)
+![UI](images/Screenshot_1.png)
 
 
 
